@@ -9,6 +9,7 @@
         <name>lmsAjax</name>
         <script><![CDATA[var lmsAjax = Class.create();
 lmsAjax.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	//function to get date difference using GlideDateTime
     getDateDiff : function()
 	{
 		var d1 = new GlideDate();
@@ -27,13 +28,13 @@ lmsAjax.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 06:35:56</sys_created_on>
         <sys_id>b9cc47082feb19107d43cfedf699b6aa</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>lmsAjax</sys_name>
         <sys_package display_value="Leave Management System" source="x_853492_lms">a1f90a3f2fd7d5107d43cfedf699b624</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Leave Management System">a1f90a3f2fd7d5107d43cfedf699b624</sys_scope>
         <sys_update_name>sys_script_include_b9cc47082feb19107d43cfedf699b6aa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-29 06:38:16</sys_updated_on>
+        <sys_updated_on>2022-11-30 08:51:36</sys_updated_on>
     </sys_script_include>
 </record_update>

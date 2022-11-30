@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_853492_lms_new_demo</description>
+        <name>x_853492_lms_new_demo</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 08:42:03</sys_created_on>
+        <sys_id>adb126bb2f5bd5107d43cfedf699b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_853492_lms_new_demo</sys_name>
+        <sys_package display_value="Leave Management System" source="x_853492_lms">a1f90a3f2fd7d5107d43cfedf699b624</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">a1f90a3f2fd7d5107d43cfedf699b624</sys_scope>
+        <sys_update_name>sys_security_acl_adb126bb2f5bd5107d43cfedf699b6f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 08:42:03</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">a1f90a3f2fd7d5107d43cfedf699b624</application>
+        <file_path/>
+        <instance_id>fd02775ddbab5348b2e05d00cf961917</instance_id>
+        <instance_name>dev67322</instance_name>
+        <name>sys_security_acl_adb126bb2f5bd5107d43cfedf699b6f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_853492_lms_new_demo</description><name>x_853492_lms_new_demo</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-28 08:42:03</sys_created_on><sys_id>adb126bb2f5bd5107d43cfedf699b6f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_853492_lms_new_demo</sys_name><sys_package display_value="Leave Management System" source="x_853492_lms">a1f90a3f2fd7d5107d43cfedf699b624</sys_package><sys_policy/><sys_scope display_value="Leave Management System">a1f90a3f2fd7d5107d43cfedf699b624</sys_scope><sys_update_name>sys_security_acl_adb126bb2f5bd5107d43cfedf699b6f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-28 08:42:03</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1376265341</payload_hash>
+        <record_name>x_853492_lms_new_demo</record_name>
+        <reverted_from/>
+        <source>a5f90a3f2fd7d5107d43cfedf699b626</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 08:42:03</sys_created_on>
+        <sys_id>71b126bb2f5bd5107d43cfedf699b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184bd6683f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 08:42:03</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>b9b126bbbf5bd51021708dc11a74bff8</update_guid>
+        <update_guid_history>b9b126bbbf5bd51021708dc11a74bff8:1376265341</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 08:43:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>001462e1632c43588112c2c58e7c3240</sys_id>
+        <sys_metadata>adb126bb2f5bd5107d43cfedf699b6f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_853492_lms_new_demo</sys_name>
+        <sys_package display_value="Leave Management System" source="x_853492_lms">a1f90a3f2fd7d5107d43cfedf699b624</sys_package>
+        <sys_parent display_value="">fdb126bb2f5bd5107d43cfedf699b6fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">a1f90a3f2fd7d5107d43cfedf699b624</sys_scope>
+        <sys_scope_delete display_value="">93db7d92e7a8432d81cc246b0cff2db1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_adb126bb2f5bd5107d43cfedf699b6f6</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_adb126bb2f5bd5107d43cfedf699b6f6">71b126bb2f5bd5107d43cfedf699b6f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 08:43:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

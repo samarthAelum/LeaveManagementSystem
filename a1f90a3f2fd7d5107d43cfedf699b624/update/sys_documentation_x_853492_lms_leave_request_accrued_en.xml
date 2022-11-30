@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="accrued" label="Accrued" language="en" table="x_853492_lms_leave_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>accrued</element>
+            <help/>
+            <hint/>
+            <label>Accrued</label>
+            <language>en</language>
+            <name>x_853492_lms_leave_request</name>
+            <plural>Accrued</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-28 07:59:48</sys_created_on>
+            <sys_id>72089aff2f1bd5107d43cfedf699b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Accrued</sys_name>
+            <sys_package display_value="Leave Management System" source="x_853492_lms">a1f90a3f2fd7d5107d43cfedf699b624</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">a1f90a3f2fd7d5107d43cfedf699b624</sys_scope>
+            <sys_update_name>sys_documentation_x_853492_lms_leave_request_accrued_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-28 07:59:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
